@@ -1300,7 +1300,7 @@ $Bloatware = @(
     #"Microsoft.XboxGameCallableUI"
     #"Microsoft.XboxSpeechToTextOverlay"
     #"Microsoft.MixedReality.Portal"
-    "Microsoft.XboxIdentityProvider"
+    #"Microsoft.XboxIdentityProvider"
     "Microsoft.ZuneMusic"
     "Microsoft.ZuneVideo"
     "Microsoft.YourPhone"
